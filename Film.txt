@@ -1,0 +1,13 @@
+P001;Avengers: Endgame;Hanh dong;181;27-08-2025
+P002;Titanic;Tinh cam;195;28-08-2025
+P003;Inception;Khoa hoc vien tuong;148;29-08-2025
+P004;The Lion King;Hoat hinh;88;01-09-2025
+P005;The Godfather;Hinh su;175;02-09-2025
+P006;Frozen;Hoat hinh;102;03-09-2025
+P007;Finding Nemo;Hoat hinh;100;04-09-2025
+P008;The Dark Knight;Hanh dong;152;05-09-2025
+P009;Forrest Gump;Tinh cam;142;06-09-2025
+P010;Avatar;Khoa hoc vien tuong;162;10-09-2025
+P011;Doraemon;Hoat hinh;120;12-12-2025
+P012;PBL2;Kinh di;17W;18-08-2025
+P013;Bo Gia;Tinh cam;120;26-12-2025

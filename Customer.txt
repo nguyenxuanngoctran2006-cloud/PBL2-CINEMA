@@ -1,0 +1,10 @@
+KH001;Nguyen Xuan Ngoc Tran;tran123;123;customer;0866744125
+KH002;Hoang Bao Nguyen;nguyenquangtri;123;customer;0866744125
+KH003;Ngoc Khue;khue147;khue;customer;0329006147
+KH004;Nguyen Thi Huong;huong38;huong12345;customer;0946143678
+KH005;Nguyen Anh Duc;duc37nghean;duc#1010;customer;0864777544
+KH006;Trinh Nhan tam;nhantam74;nhantam@1234;customer;0943255197
+KH007;Phan Tuan Tu;emtu37;tuantuhotboi;customer;0914255781
+KH008;Vo Van Phi;phivo123;vanphi92;customer;0966125781
+KH009;Dinh Van Thanh;dinhthanh24;dinhvanthanh123;customer;0973155374
+KH010;Do Thi Tuyet Hoa;tuyethoa123;flower337;customer;0915255555

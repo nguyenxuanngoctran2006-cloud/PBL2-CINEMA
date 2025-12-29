@@ -1,0 +1,3 @@
+PH001;PhongYeuThuong;50
+PH002;PhongTinhYeu;50
+PH003;PhongNuCuoi;50
